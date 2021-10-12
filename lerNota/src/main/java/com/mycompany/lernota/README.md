@@ -1,0 +1,2 @@
+
+Foi usado na classe lerNota um método construtor, nele é colocado valores nas variáveis nome, nota 1 e nota 2 com uma janela de diálogo, é exibido em outra janela de diálogo o nome. Para exibir a média é chamado um método privado (calculaMedia) que recebe dois valores por parametro, calcula a média desses dois valores, faz a lógica de aprovação e reprovação pelo valor da média e exibe numa janela de diálogo se o aluno(a) for aprovado(a) ou não. 
